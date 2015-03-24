@@ -2,7 +2,7 @@
 title: "Course project - Getting and cleaning data"
 author: "Atul Anand"
 date: "Saturday 21 March 2015"
-output: html_document
+output: txt_document
 ---
 
 ##Introduction
